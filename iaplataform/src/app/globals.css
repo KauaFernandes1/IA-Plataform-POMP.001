@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-sans; /* Aplica a configuração Helvetica */
+  color: #18181b;
+  background: url('../../public/background.svg');
+  margin: 0 auto;
+  padding: 0;
+}
