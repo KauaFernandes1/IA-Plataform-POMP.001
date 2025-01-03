@@ -13,7 +13,7 @@ export default {
         foreground: "var(--foreground)",
       },
       backgroundImage: {
-        'custom-bg': "url('./background.svg')", // Substitua pelo caminho da sua imagem
+        'custom-bg': "url('/background.svg')", // Substitua pelo caminho da sua imagem
       },
     },
   },
